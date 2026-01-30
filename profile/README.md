@@ -53,6 +53,7 @@ Core research themes include:
 - **Karel Cápek**
 - **Honza Rožek**
 - **proFCrank**
+- **proFQuansistor**
 
 ---
 
